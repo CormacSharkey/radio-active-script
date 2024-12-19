@@ -3,6 +3,8 @@
 <h1 align=center> RADIOACTIVE </h1>
 <p> SEARCH - PLAY - RECORD - REPEAT </p>
 
+<p> MODIFIED TO BE RUN IN A SCRIPT </p>
+
 
 
 
